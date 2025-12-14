@@ -3,17 +3,16 @@ name = "cd13651-project"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=7.1.0",
     "ipywidgets>=8.1.8",
-    "keras<3",
+    "keras",
     "matplotlib>=3.10.8",
     "nbconvert>=7.16.6",
-    "numpy<2",
+    "numpy",
     "pandas>=2.3.3",
     "scikit-learn>=1.7.2",
-    "tensorflow<2.11",
-    "tensorflow-io-gcs-filesystem<0.32",
+    "tensorflow",
     "tqdm>=4.67.1",
 ]
