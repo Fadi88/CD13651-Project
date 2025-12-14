@@ -20,3 +20,6 @@ venv.bak/
 *.csv
 !Project/GOOG_2009-2010_6m_RAW_1d.csv
 reburic.txt
+RUBRIC_CONFORMANCE.md
+*.keras
+*.h5
